@@ -23,7 +23,7 @@ function Guest(){
     return(
         <Card>
             <Link to='/menu'>
-            <CardImg src={'./public/assets/images/home.JPG'} />
+            <CardImg src={'public/assets/images/home.JPG'} />
             </Link>
         </Card>
     );
