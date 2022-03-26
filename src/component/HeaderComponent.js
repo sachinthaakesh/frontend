@@ -129,7 +129,7 @@ class Header extends Component {
                                 <h1>Roma & BA Onling Ordering</h1>
                                 <p>Are you hungry!!!!! can't you go out because of Corona,
                                     <br/> We can delivery our delicious food for you door-step,only thing you have to do
-                                    click and order online...,
+                                    click and order online...
                                     </p>
                             </div>
                         </div>
